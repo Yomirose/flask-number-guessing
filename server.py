@@ -59,7 +59,7 @@ def wrap_content(content):
                 margin-top: 20px;
                 text-decoration: none;
                 color: #007BFF;
-                font-size: 18px;
+                font-size: 25px;
             }}
         </style>
     </head>
